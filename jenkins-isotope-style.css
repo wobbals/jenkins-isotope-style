@@ -10,6 +10,11 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #4f7b94; }
 
+  #header {
+    background-color: #FF0000;
+    height: 40px;
+  }
+  
 #top-panel {
   background: none; }
   #top-panel td#login-field span a {
