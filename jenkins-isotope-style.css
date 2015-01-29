@@ -12,10 +12,14 @@ h1, h2, h3, h4, h5, h6 {
 
 #header {
     background-color: #00FF00;
-    height: 150px;
+    height: 125px;
     background: url("http://wobbals.github.io/jenkins-isotope-style/headshot.png") 0 0 no-repeat;
 }
 
-#logo {
+#jenkins-name-icon {
+    display: none;
+}
+
+#jenkins-head-icon {
     display: none;
 }
