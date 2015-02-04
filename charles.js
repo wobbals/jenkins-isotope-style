@@ -5,8 +5,8 @@ function charles() {
     tmptxt,
     tmpnode,
     // compile the RE and cache the replace string, for performance
-    cakeRE = /cake/g
-    replaceValue = "pie";
+    cakeRE = /Jenkins/g
+    replaceValue = "Charles";
 
     // iterate through all text nodes
     while (allTextNodes.nextNode()) {
